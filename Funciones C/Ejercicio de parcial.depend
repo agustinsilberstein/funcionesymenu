@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1475613806 source:e:\copy\pato\parcial1\ejercicio de parcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"funciones.h"
+
+1475613714 source:e:\copy\pato\parcial1\ejercicio de parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1475613379 e:\copy\pato\parcial1\ejercicio de parcial\funciones.h
+
